@@ -48,20 +48,20 @@
 				<img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 				<br>jQuery
 			</td>
-<!-- 		</tr>
-		<tr> -->
+</tr>
+		<tr> 
 			<td align="center">
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="64px"/>
 				<br>HTML
 			</td>
-<!-- 			<td align="center">
+			<td align="center">
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="64px"/>
 				<br>php
 			</td>
 			<td align="center">
 				<img alt="docker" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 				<br>Docker
-			</td> -->
+			</td> 
 			<td align="center">
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  height="64px"/>
 				<br>mongodb
