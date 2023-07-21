@@ -49,7 +49,7 @@
 				<br>jQuery
 			</td>
 </tr>
-		<tr> 
+		 
 			<td align="center">
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="64px"/>
 				<br>HTML
