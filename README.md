@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  I am a Python/Django eveloper.</h3>
+<h3 align="left">👩‍💻  I am a Python/Django Developer.</h3>
 
 ###
 
@@ -20,7 +20,7 @@
 <a href="https://www.hackerrank.com/engnraminul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="engnraminul" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Language, framework and technology that I like:</h3>
+<h3 align="left">Language, framework and technology</h3>
 <table>
 		<tr>
 			<td align="center">
