@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/motalibhossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="motalibhossain" height="30" width="40" /></a>
-<a href="https://twitter.com/motalibhossai13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="motalibhossai13" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/s.motalibhossain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/s.motalibhossain/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-aminul-islam-9b6b44235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-aminul-islam-9b6b44235" height="30" width="40" /></a>
+<a href="https://fb.com/aminul.official.bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aminul.official.bd" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/engnraminul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="engnraminul" height="30" width="40" /></a>
 </p>
 
 
