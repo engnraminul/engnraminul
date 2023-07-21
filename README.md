@@ -21,7 +21,61 @@
 <a href="https://www.hackerrank.com/engnraminul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="engnraminul" height="30" width="40" /></a>
 </p>
 
-
+<h3 align="left">Language, framework and technology that I like:</h3>
+<table>
+		<tr>
+			<td align="center">
+				<img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+				<br>Python
+			</td>
+			<td align="center">
+				<img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
+				<br>Django
+			</td>
+			<td align="center">
+				<img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+				<br>Javascript
+			</td>
+			<td align="center">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"height="64"/>
+				<br>react
+			</td>
+			<td align="center">
+				<img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+				<br>Bootstrap
+			</td>
+			<td align="center">
+				<img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+				<br>jQuery
+			</td>
+<!-- 		</tr>
+		<tr> -->
+			<td align="center">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="64px"/>
+				<br>HTML
+			</td>
+<!-- 			<td align="center">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="64px"/>
+				<br>php
+			</td>
+			<td align="center">
+				<img alt="docker" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+				<br>Docker
+			</td> -->
+			<td align="center">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  height="64px"/>
+				<br>mongodb
+			</td>
+			<td align="center">
+				<img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+				<br>PostgreSQL
+			</td>
+			<td align="center">
+				<img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+				<br>MySQL
+			</td>
+		</tr>
+	</table>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engnraminul)](https://github.com/anuraghazra/github-readme-stats)
