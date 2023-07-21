@@ -12,7 +12,6 @@
 
 <p align="left">Looking for a challenging position in a reputable organization<br>where I can make the best use of my potential and contribute to<br>the growth of the organization.</p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,31 +36,17 @@
 				<br>Javascript
 			</td>
 			<td align="center">
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"height="64"/>
-				<br>react
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="64px"/>
+				<br>HTML
 			</td>
 			<td align="center">
 				<img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 				<br>Bootstrap
 			</td>
 			<td align="center">
-				<img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-				<br>jQuery
+				<img alt="css" height=64px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/340px-CSS3_logo_and_wordmark.svg.png">
+				<br>CSS
 			</td>
-</tr>
-		 
-			<td align="center">
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="64px"/>
-				<br>HTML
-			</td>
-			<td align="center">
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="64px"/>
-				<br>php
-			</td>
-			<td align="center">
-				<img alt="docker" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-				<br>Docker
-			</td> 
 			<td align="center">
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  height="64px"/>
 				<br>mongodb
@@ -74,16 +59,13 @@
 				<img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 				<br>MySQL
 			</td>
+			<td align="center">
+				<img alt="docker" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+				<br>Docker
+			</td>
 		</tr>
 	</table>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engnraminul)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=engnraminul&show_icons=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=engnraminul&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=engnraminul)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=engnraminul)  
-
-![Profile views](https://gpvc.arturio.dev/engnraminul)  
