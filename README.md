@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi, I am Md Aminul Islam</h1>
 
-<!--
-**engnraminul/engnraminul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<img align="right" height="200" src="https://avatars.githubusercontent.com/u/97022593?v=4"  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h3 align="left">👩‍💻  I am a Python/Django eveloper.</h3>
+
+###
+
+<p align="left">Looking for a challenging position in a reputable organization<br>where I can make the best use of my potential and contribute to<br>the growth of the organization.</p>
+
+###
